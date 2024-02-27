@@ -1,0 +1,12 @@
+#Node A -> B
+-45
+#Node B -> C
+-55
+#Node C -> A
+-68
+#Node A - T (target)
+-44
+#Node B -> T
+-53
+#Node C -> T
+-50
